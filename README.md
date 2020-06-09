@@ -17,5 +17,5 @@ Projetos de deep learning
       FaceBook stocks
     </h2>
   
-  <p><strong>Descrição do projeto</strong>: Utilizamos uma rede neural para prever tendência das ações do facebook, ou seja, com o algoritmo produzido conseguimos ter uma ideia sobre queda e subida das ações do facebook.</p>
+  <p><strong>Descrição do projeto</strong>: Algoritmo capaz de prever a tendência das ações do facebook, ou seja, com a rede neural criada conseguimos prever se a ação tem tendência de queda ou de alta.</p>
  </div>
