@@ -1,1 +1,1 @@
-https://img.shields.io/microbadger/layers/ThiagoBenevides/deep_learning?color=red&style=plastic
+![GitHub_repo_size](https://img.shields.io/github/repo-size/ThiagoBenevides/deep_learning)
