@@ -8,7 +8,7 @@ Projetos de deep learning
  </p>
 
 <p>
-  <strong>Descrição:</strong> Os projetos neste repósitorio foram desenvolvidos durante meus estudos na área de deep learning
+  <strong>Descrição:</strong> Os projetos neste repósitorio foram desenvolvidos durante meus estudos na área de deep learning.
  </p>
  
  
