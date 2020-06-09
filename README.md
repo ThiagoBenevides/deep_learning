@@ -1,2 +1,1 @@
-# deep_learning
-Algoritmos criados em python para o estudo de deep learning
+https://img.shields.io/microbadger/layers/ThiagoBenevides/deep_learning?color=red&style=plastic
