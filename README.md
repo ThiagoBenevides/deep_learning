@@ -19,7 +19,7 @@ Projetos de deep learning
   
   <p><strong>Descrição do projeto</strong>: Neste projeto utilizamos o algoritmo de redes neurais recorrentes para prever a tendencia do preço das ações do facebook</p>
 <p><strong>Dados utilizados</strong>: Os dados utilizados foram retirados di site <a href="https://finance.yahoo.com/quote/FB/history?p=FB" target="_blank"> yahoo finance</a>.</p>
-<p><strong>Dados utilizados</strong>: Para este modelo foram utilizados dois conjuntos de dados sendo um para treinar o modelo e outro para testar o modelo</p>
+<p><strong>Divisão dos dados</strong>: Para este modelo foram utilizados dois conjuntos de dados sendo um para treinar o modelo e outro para testar o modelo</p>
   <ul>
   <li><strong>Dados de treino</strong>: O arquivo fb_stocks foi utilizado para treinar o modelo de rede neural recorrente. Ele conta com 1761, sendo que cada linha representa um dia indo de 02- Janeiro- 2013 até o dia 30-Dezembro de 2019</li>
   <li><strong>Dados de teste</strong>: O arquivo fb_stocks_test foi utilizado para testar a precisão do modelo de rede neural. Ele conta com 88 entradas, sendo que cada linha representa um dia começando pelo dia 03-Fevereiro-2020 até 08-Junho-2020.</li>
